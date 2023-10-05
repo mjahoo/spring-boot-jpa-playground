@@ -6,6 +6,10 @@ A simple project to quickly try out JPA (hibernate) using in memory H2 database.
 
     ./gradlew bootRun
 
+## Database tables
+
+Database tables are created automatically from entity classes.
+
 ## Viewing the database
 
 Project has H2 console enabled, go to http://localhost:8080/h2-console to view database.
